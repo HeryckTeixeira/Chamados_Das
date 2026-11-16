@@ -2,7 +2,7 @@
 
 API REST do Sistema de Chamados — DAS (Design e Arquitetura de Sistemas), Univille.
 
-Aluna: Fernanda Lemes de Souza — 144 6CN (Engenharia de Software)
+Aluno: Héryck Teixeira de Souza — 144 6CN (Engenharia de Software)
 
 ## Executar
 
